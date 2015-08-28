@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapViewPlus", "MapViewPlus\MapViewPlus.csproj", "{AA3D20E9-8F68-453D-A76A-3A89CA0F25FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA3D20E9-8F68-453D-A76A-3A89CA0F25FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA3D20E9-8F68-453D-A76A-3A89CA0F25FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA3D20E9-8F68-453D-A76A-3A89CA0F25FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA3D20E9-8F68-453D-A76A-3A89CA0F25FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MapViewPlus\MapViewPlus.csproj
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = None
+		$1.ResourceNamePolicy = FileFormatDefault
+		$0.TextStylePolicy = $2
+		$2.FileWidth = 100
+		$2.TabsToSpaces = False
+		$2.inheritsSet = VisualStudio
+		$2.inheritsScope = text/plain
+		$2.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $3
+		$3.AfterDelegateDeclarationParameterComma = True
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/x-csharp
+		$3.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal
