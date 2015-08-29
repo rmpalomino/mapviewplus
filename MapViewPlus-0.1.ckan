@@ -1,0 +1,20 @@
+{
+    "spec_version": 1,
+    "identifier": "MapViewPlus",
+    "x_netkan_license_ok": true,
+    "resources": {
+        "homepage": "http://forum.kerbalspaceprogram.com/threads/132863-1-0-4-WIP-Plugin-MapViewPlus-v0-1",
+        "repository": "https://github.com/rmpalomino/mapviewplus",
+        "kerbalstuff": "https://kerbalstuff.com/mod/1122/MapViewPlus"
+    },
+    "ksp_version": "1.0.4",
+    "name": "MapViewPlus",
+    "license": "ISC",
+    "abstract": "Make Map View a little more friendly.",
+    "author": "rmpalomino",
+    "version": "0.1",
+    "download": "https://kerbalstuff.com/mod/1122/MapViewPlus/download/0.1",
+    "x_generated_by": "netkan",
+    "x_screenshot": "https://kerbalstuff.com/content/rmpalomino_14191/MapViewPlus/MapViewPlus-1440801266.431217.png",
+    "download_size": 6540
+}
